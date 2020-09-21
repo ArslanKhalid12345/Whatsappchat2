@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "60152810696",
+    "firebase_url": "https://pushfcmmessage.firebaseio.com",
+    "project_id": "pushfcmmessage",
+    "storage_bucket": "pushfcmmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60152810696:android:6e52e8ccc48567554c29fd",
+        "android_client_info": {
+          "package_name": "com.example.chatapp20sepsunday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzb3exHoDYTzLxrY-dk1zSLwB3etBS5CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60152810696:android:8c76dd03c410d9a34c29fd",
+        "android_client_info": {
+          "package_name": "com.example.fcmpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzb3exHoDYTzLxrY-dk1zSLwB3etBS5CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60152810696:android:4482ce5d1d6a707d4c29fd",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzb3exHoDYTzLxrY-dk1zSLwB3etBS5CU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60152810696-vmp3g2fp4934tosadm520loe3ddsjl3m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
